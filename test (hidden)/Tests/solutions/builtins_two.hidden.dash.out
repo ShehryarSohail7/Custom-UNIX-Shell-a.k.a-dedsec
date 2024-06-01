@@ -1,0 +1,5 @@
+/home/os-fall-2023/Code/test
+/home/os-fall-2023/Code/test/Tests
+/home/os-fall-2023/Code/test
+/home/os-fall-2023/Code/test/Tests
+aliased ls but never used cuz builtins are being tested, lets unalias everything now

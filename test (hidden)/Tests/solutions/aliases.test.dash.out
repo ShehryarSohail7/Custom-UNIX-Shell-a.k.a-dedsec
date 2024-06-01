@@ -1,0 +1,40 @@
+ls='echo ls'
+ls
+ls
+&&
+*
+;
+Tests
+config.json
+cp
+find.log
+ls
+names.txt
+test.py
+test_dir
+grep='grep --color=auto'
+ll='ls -la'
+total 16
+drwxrwxrwx 1 1000 1000  4096 Jan  8 14:20 &&
+drwxrwxrwx 1 1000 1000  4096 Jan  8 14:20 *
+drwxrwxrwx 1 1000 1000  4096 Mar  6 06:19 .
+drwxrwxrwx 1 1000 1000  4096 Jan 17 12:28 ..
+drwxrwxrwx 1 1000 1000  4096 Jan  8 14:20 ;
+drwxrwxrwx 1 1000 1000  4096 Mar  6 06:19 Tests
+-rwxrwxrwx 1 1000 1000  1144 Oct 10 13:27 config.json
+drwxrwxrwx 1 1000 1000  4096 Jan  8 14:20 cp
+-rwxrwxrwx 1 1000 1000    50 Mar  6 06:18 find.log
+drwxrwxrwx 1 1000 1000  4096 Jan  8 14:20 ls
+-rwxrwxrwx 1 1000 1000    52 Sep 12 15:35 names.txt
+-rwxrwxrwx 1 1000 1000 10106 Oct  8 22:18 test.py
+drwxrwxrwx 1 1000 1000  4096 Jan  8 14:20 test_dir
+grep='grep --color=auto'
+gs='git status'
+grep='grep --color=auto'
+hello
+/home/os-fall-2023/Code/test
+grep='grep --color=auto'
+hello='echo hello'
+gs='git status'
+        "easy": 30,
+        "advanced": 30

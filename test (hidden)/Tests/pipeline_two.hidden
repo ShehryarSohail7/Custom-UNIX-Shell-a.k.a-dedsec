@@ -1,0 +1,5 @@
+cat names.txt | tr [:lower:] [:upper:]
+cat names.txt | tr [:lower:] [:upper:] | cat -E
+echo "Welcome to {CS 370}" | tr "{}" "()"
+echo "My password is {12345678}" | tr "{}" "()" | tr -d [:digit:] | tr [:lower:] [:upper:]
+find . -type d | grep Tests

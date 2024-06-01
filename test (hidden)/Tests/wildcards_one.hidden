@@ -1,0 +1,6 @@
+find . -name *.hidden
+ls *.txt
+ls *f*
+ls ????.*
+ls ????.log
+ls *f*.* | grep .log

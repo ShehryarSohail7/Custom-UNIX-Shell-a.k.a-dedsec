@@ -1,0 +1,31 @@
+config.json
+      3 advanced
+      3 easy
+      3 medium
+   2 Tests/wild_chaining.hidden
+   2 Tests/wild_chaining.test
+   4 Tests/pipeline.test
+   4 Tests/pipeline_ioredir.hidden
+   4 Tests/pipeline_two.hidden
+   4 Tests/wildcards.test
+   5 Tests/chaining.test
+   5 Tests/wildcards_one.hidden
+   6 Tests/quotes.test
+   6 Tests/quotes.test.custom
+   7 Tests/builtins.test
+   7 Tests/chaining.hidden
+   7 Tests/pipeline_one.hidden
+  11 Tests/builtins_one.hidden
+  11 Tests/builtins_one.hidden.custom
+  12 Tests/ioredir.test
+  13 Tests/simple.test
+  15 Tests/builtins_two.hidden
+  15 Tests/builtins_two.hidden.custom
+  17 Tests/ioredir_one.hidden
+  19 Tests/aliases.test
+  19 Tests/aliases.test.custom
+  22 Tests/ioredir_two.hidden
+  22 Tests/ioredir_two.hidden.custom
+  61 Tests/exec_only.hidden
+ 300 total
+13

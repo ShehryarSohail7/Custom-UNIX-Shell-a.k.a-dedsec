@@ -1,0 +1,8 @@
+echo "ls" > command.txt && echo "exit" >> command.txt && ../build/Shell < command.txt ; rm command.txt
+echo "S" && echo "u" || echo "u" && echo "n" && echo "d" ; echo "a" && echo "y"
+echo "M" && echo "o" || echo "o" && echo "n" && echo "d" ; echo "a" && echo "y"
+echo "T" && echo "u" || echo "u" && echo "e" && echo "s" && echo "d" ; echo "a" && echo "y"
+echo "W" && echo "e" || echo "e" && echo "d" && echo "n" && echo "e" && echo "s" && echo "d" ; echo "a" && echo "y"
+echo "T" && echo "h" || echo "h" && echo "u" && echo "r" && echo "s" && echo "d" ; echo "a" && echo "y"
+echo "F" && echo "r" || echo "r" && echo "i" && echo "d" ; echo "a" && echo "y"
+echo "S" && echo "a" || echo "a" && echo "t" && echo "u" && echo "r" && echo "d" ; echo "a" && echo "y"

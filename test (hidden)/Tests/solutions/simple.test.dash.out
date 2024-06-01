@@ -1,0 +1,62 @@
+&&
+*
+;
+Tests
+config.json
+cp
+find.log
+ls
+names.txt
+test.py
+test_dir
+&&
+*
+;
+Tests
+config.json
+cp
+find.log
+ls
+names.txt
+tempfile
+test.py
+test_dir
+root
+{
+    "test_directory": "Tests",
+    "default_tests": [
+        "easy",
+        "medium",
+        "advanced"
+    ],
+    "test_files": {
+        "easy": [
+            "simple.test",
+    "default_timeout": 1,
+    "log_to_file": false,
+    "verbose": true,
+    "output_csv": "../../results_S2.csv"
+}
+&&
+*
+;
+Tests
+config.json
+config.json.bak
+cp
+find.log
+ls
+names.txt
+test.py
+test_dir
+&&
+*
+;
+Tests
+config.json
+cp
+find.log
+ls
+names.txt
+test.py
+test_dir

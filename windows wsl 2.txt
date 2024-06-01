@@ -1,0 +1,3 @@
+gcc dedsec.c -o dedsec.exe -lreadline -lncurses && ./dedsec.exe
+gcc dedsec.c -o dedsec -lreadline -lncurses && ./dedsec custom_file.txt
+gcc dedsec.c -o dedsec -lreadline -lncurses && ./dedsec "test (hidden)"/Tests/chaining.test

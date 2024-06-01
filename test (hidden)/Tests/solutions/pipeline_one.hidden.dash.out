@@ -1,0 +1,60 @@
+    "default_tests": [
+        "easy",
+        "medium",
+        "advanced"
+            "aliases.test",
+            "builtins.test",
+            "builtins_one.hidden",
+            "builtins_two.hidden",
+            "chaining.hidden"
+            "chaining.test",
+            "exec_only.hidden"
+            "ioredir.test",
+            "ioredir_one.hidden",
+            "ioredir_two.hidden",
+            "pipeline.test",
+            "pipeline_ioredir.hidden"
+            "pipeline_one.hidden",
+            "pipeline_two.hidden",
+            "quotes.test",
+            "simple.test",
+            "wild_chaining.hidden",
+            "wild_chaining.test",
+            "wildcards.test",
+            "wildcards_one.hidden",
+        "advanced"
+        "advanced": 30
+        "advanced": [
+        "easy",
+        "easy": 30,
+        "easy": [
+        "medium",
+        "medium": 40,
+        "medium": [
+        ]
+        ],
+        ],
+    "default_tests": [
+    "default_timeout": 1,
+    "log_to_file": false,
+    "output_csv": "../../results_S2.csv"
+    "reference_shell": "dash",
+    "shell": "../build/Shell",
+    "test_directory": "Tests",
+    "test_files": {
+    "verbose": true,
+    "weightage": {
+    ],
+    },
+    },
+{
+}
+Tests
+find.log
+ls
+Tests
+find.log
+ls
+        "advanced"
+            "builtins.test",
+WRITTEN BY DAVID M. IHNAT, DAVID MACKENZIE, AND JIM MEYERING.

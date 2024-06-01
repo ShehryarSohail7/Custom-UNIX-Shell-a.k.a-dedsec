@@ -1,0 +1,7 @@
+dedsec
+echo "2000"
+pwd
+ls *
+ls *.c
+version
+wc -l ../include/*.h

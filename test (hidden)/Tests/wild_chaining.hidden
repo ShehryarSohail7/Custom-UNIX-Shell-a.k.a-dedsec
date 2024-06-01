@@ -1,0 +1,2 @@
+mkdir test_dir && cp * test_dir ; ls ; ls test_dir
+rm test_dir/* && rmdir test_dir ; ls ; ls test_dir

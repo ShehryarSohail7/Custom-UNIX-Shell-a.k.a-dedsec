@@ -1,0 +1,50 @@
+Test Line 8
+Start
+of
+the
+test
+{
+    "test_directory": "Tests",
+    "default_tests": [
+        "easy",
+        "medium",
+#!/usr/bin/python3
+
+import subprocess
+import json
+from rich.console import Console
+    "default_timeout": 1,
+    "log_to_file": false,
+    "verbose": true,
+    "output_csv": "../../results_S2.csv"
+}
+    # test.set_tests(["easy"])
+    start = time.time()
+    test.run()
+    end = time.time()
+    print(f"Finished in {end - start:<.2f}s.")    "default_timeout": 1,
+    "log_to_file": false,
+    "verbose": true,
+    "output_csv": "../../results_S2.csv"
+}
+    # test.set_tests(["easy"])
+    start = time.time()
+    test.run()
+    end = time.time()
+    print(f"Finished in {end - start:<.2f}s."){
+    "test_directory": "Tests",
+    "default_tests": [
+        "easy",
+        "medium",
+#!/usr/bin/python3
+
+import subprocess
+import json
+from rich.console import Console
+.
+./&&
+./;
+./cp
+./ls
+./test_dir
+./*
