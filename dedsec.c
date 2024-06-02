@@ -10,9 +10,9 @@
 #include <glob.h>
 #include <signal.h>
 
-// gcc dedsec.c -o compiled/dedsec -lreadline -lncurses && ./compiled/dedsec
-// gcc dedsec.c -o compiled/dedsec -lreadline -lncurses && ./compiled/dedsec "test (hidden)"/Tests/chaining.test
-// gcc dedsec.c -o compiled/dedsec -lreadline -lncurses && cd ../Code/test && ../../"unix processes in C"/compiled/dedsec ./Tests/chaining.test && cd ../../"unix processes in C"
+// gcc dedsec.c -o dedsec -lreadline -lncurses && ./dedsec
+// gcc dedsec.c -o dedsec -lreadline -lncurses && ./dedsec "test (hidden)"/Tests/chaining.test
+// gcc dedsec.c -o dedsec -lreadline -lncurses && cd ../Code/test && ../../"unix processes in C"/dedsec ./Tests/chaining.test && cd ../../"unix processes in C"
 
 // MACROS
 #define MAX_PATH 4096
